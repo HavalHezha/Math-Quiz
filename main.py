@@ -35,7 +35,7 @@ print("let is do this \n")
 # { i += 1 } awa wata bo zane har prsyarak darachayak zyad bkat
 corex = input("1- what is 2+2 = ")
 
-if corex == "1":
+if corex == "4":
     i += 1
     print("Correct")
 else:
